@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=cloud
+comment1.params=
+comment1.target=cloud()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ atTurningPoint()
+numComments=4

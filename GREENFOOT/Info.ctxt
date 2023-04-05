@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Info
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Info\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=width\ height
+comment2.target=Info(int,\ int)
+comment3.params=score
+comment3.target=void\ setScore(int)
+comment4.params=lives
+comment4.target=void\ setLives(int)
+comment5.params=
+comment5.target=void\ drawImage()
+comment6.params=
+comment6.target=Minigame\ getMinigame()
+numComments=7

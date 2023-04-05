@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ice2
+comment1.params=
+comment1.target=ice2()
+comment2.params=width\ height
+comment2.target=ice2(int,\ int)
+numComments=3

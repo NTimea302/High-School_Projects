@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=trampoline
+comment1.params=
+comment1.target=trampoline()
+comment2.params=width\ height
+comment2.target=trampoline(int,\ int)
+numComments=3

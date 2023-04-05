@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Info2
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=width\ height
+comment2.target=Info2(int,\ int)
+comment3.params=score
+comment3.target=void\ setScore(int)
+comment4.params=
+comment4.target=void\ drawImage()
+comment5.params=
+comment5.target=level1\ getlevel1()
+numComments=6
